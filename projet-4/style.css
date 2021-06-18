@@ -11,6 +11,11 @@ body{
     margin-top: 3rem;
     background: #deebbc;
 }
+span{
+    color: #b6c2d9;
+   float: left;
+   font-family: sans-serif;
+}
 
 .addItems-container{
     background: #3f4347;
